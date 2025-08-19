@@ -6,7 +6,6 @@ function App() {
 
   return (
     <>
-    {/* Proyecto iniciado y reseteado de estilos, hay que importar y utilizar los componentes y agregarles un estilo base */}
     <NavBar/>
     <ItemListContainer saludo="Bienvenido a nuestra tienda"/>
     </>
